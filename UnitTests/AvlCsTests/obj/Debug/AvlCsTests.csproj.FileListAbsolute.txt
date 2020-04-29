@@ -1,0 +1,17 @@
+C:\Users\Rapha\source\repos\PathDataStructuresManagedEnvironment\AvlCsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Rapha\source\repos\PathDataStructuresManagedEnvironment\AvlCsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Rapha\source\repos\PathDataStructuresManagedEnvironment\AvlCsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Rapha\source\repos\PathDataStructuresManagedEnvironment\AvlCsTests\bin\Debug\AvlCsTests.dll
+C:\Users\Rapha\source\repos\PathDataStructuresManagedEnvironment\AvlCsTests\bin\Debug\AvlCsTests.pdb
+C:\Users\Rapha\source\repos\PathDataStructuresManagedEnvironment\AvlCsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Rapha\source\repos\PathDataStructuresManagedEnvironment\AvlCsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Rapha\source\repos\PathDataStructuresManagedEnvironment\AvlCsTests\bin\Debug\PathDataStructuresManagedEnvironment.exe
+C:\Users\Rapha\source\repos\PathDataStructuresManagedEnvironment\AvlCsTests\bin\Debug\PathDataStructuresManagedEnvironment.pdb
+C:\Users\Rapha\source\repos\PathDataStructuresManagedEnvironment\AvlCsTests\bin\Debug\PathDataStructuresManagedEnvironment.exe.config
+C:\Users\Rapha\source\repos\PathDataStructuresManagedEnvironment\AvlCsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Rapha\source\repos\PathDataStructuresManagedEnvironment\AvlCsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Rapha\source\repos\PathDataStructuresManagedEnvironment\AvlCsTests\obj\Debug\AvlCsTests.csprojAssemblyReference.cache
+C:\Users\Rapha\source\repos\PathDataStructuresManagedEnvironment\AvlCsTests\obj\Debug\AvlCsTests.csproj.CoreCompileInputs.cache
+C:\Users\Rapha\source\repos\PathDataStructuresManagedEnvironment\AvlCsTests\obj\Debug\AvlCsTests.csproj.CopyComplete
+C:\Users\Rapha\source\repos\PathDataStructuresManagedEnvironment\AvlCsTests\obj\Debug\AvlCsTests.dll
+C:\Users\Rapha\source\repos\PathDataStructuresManagedEnvironment\AvlCsTests\obj\Debug\AvlCsTests.pdb

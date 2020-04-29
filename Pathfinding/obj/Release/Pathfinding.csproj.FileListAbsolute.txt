@@ -1,0 +1,14 @@
+C:\Users\jrsoucy\Documents\Personal\Projects\PathDataStructures\PathDataStructuresManagedEnvironment\Pathfinding\obj\Release\Pathfinding.csprojAssemblyReference.cache
+C:\Users\jrsoucy\Documents\Personal\Projects\PathDataStructures\PathDataStructuresManagedEnvironment\Pathfinding\obj\Release\Pathfinding.AssemblyInfoInputs.cache
+C:\Users\jrsoucy\Documents\Personal\Projects\PathDataStructures\PathDataStructuresManagedEnvironment\Pathfinding\obj\Release\Pathfinding.AssemblyInfo.cs
+C:\Users\jrsoucy\Documents\Personal\Projects\PathDataStructures\PathDataStructuresManagedEnvironment\Pathfinding\bin\Release\Pathfinding.deps.json
+C:\Users\jrsoucy\Documents\Personal\Projects\PathDataStructures\PathDataStructuresManagedEnvironment\Pathfinding\bin\Release\Pathfinding.dll
+C:\Users\jrsoucy\Documents\Personal\Projects\PathDataStructures\PathDataStructuresManagedEnvironment\Pathfinding\bin\Release\Pathfinding.pdb
+C:\Users\jrsoucy\Documents\Personal\Projects\PathDataStructures\PathDataStructuresManagedEnvironment\Pathfinding\bin\Release\ConsoleUI.dll
+C:\Users\jrsoucy\Documents\Personal\Projects\PathDataStructures\PathDataStructuresManagedEnvironment\Pathfinding\bin\Release\World.dll
+C:\Users\jrsoucy\Documents\Personal\Projects\PathDataStructures\PathDataStructuresManagedEnvironment\Pathfinding\bin\Release\World.pdb
+C:\Users\jrsoucy\Documents\Personal\Projects\PathDataStructures\PathDataStructuresManagedEnvironment\Pathfinding\bin\Release\ConsoleUI.pdb
+C:\Users\jrsoucy\Documents\Personal\Projects\PathDataStructures\PathDataStructuresManagedEnvironment\Pathfinding\obj\Release\Pathfinding.csproj.CopyComplete
+C:\Users\jrsoucy\Documents\Personal\Projects\PathDataStructures\PathDataStructuresManagedEnvironment\Pathfinding\obj\Release\Pathfinding.dll
+C:\Users\jrsoucy\Documents\Personal\Projects\PathDataStructures\PathDataStructuresManagedEnvironment\Pathfinding\obj\Release\Pathfinding.pdb
+C:\Users\jrsoucy\Documents\Personal\Projects\PathDataStructures\PathDataStructuresManagedEnvironment\Pathfinding\obj\Release\Pathfinding.csproj.CoreCompileInputs.cache

@@ -1,0 +1,6 @@
+C:\Users\jrsoucy\Documents\Personal\Projects\PathDataStructures\PathDataStructuresManagedEnvironment\PriorityQueue\Priority Queue\bin\Debug\Priority Queue.dll
+C:\Users\jrsoucy\Documents\Personal\Projects\PathDataStructures\PathDataStructuresManagedEnvironment\PriorityQueue\Priority Queue\bin\Debug\Priority Queue.pdb
+C:\Users\jrsoucy\Documents\Personal\Projects\PathDataStructures\PathDataStructuresManagedEnvironment\PriorityQueue\Priority Queue\obj\Debug\Priority Queue.csprojAssemblyReference.cache
+C:\Users\jrsoucy\Documents\Personal\Projects\PathDataStructures\PathDataStructuresManagedEnvironment\PriorityQueue\Priority Queue\obj\Debug\Priority Queue.csproj.CoreCompileInputs.cache
+C:\Users\jrsoucy\Documents\Personal\Projects\PathDataStructures\PathDataStructuresManagedEnvironment\PriorityQueue\Priority Queue\obj\Debug\Priority Queue.dll
+C:\Users\jrsoucy\Documents\Personal\Projects\PathDataStructures\PathDataStructuresManagedEnvironment\PriorityQueue\Priority Queue\obj\Debug\Priority Queue.pdb

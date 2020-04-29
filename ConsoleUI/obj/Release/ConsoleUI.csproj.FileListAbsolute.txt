@@ -1,0 +1,9 @@
+C:\Users\jrsoucy\Documents\Personal\Projects\PathDataStructures\PathDataStructuresManagedEnvironment\ConsoleUI\obj\Release\ConsoleUI.csprojAssemblyReference.cache
+C:\Users\jrsoucy\Documents\Personal\Projects\PathDataStructures\PathDataStructuresManagedEnvironment\ConsoleUI\obj\Release\ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\jrsoucy\Documents\Personal\Projects\PathDataStructures\PathDataStructuresManagedEnvironment\ConsoleUI\obj\Release\ConsoleUI.AssemblyInfoInputs.cache
+C:\Users\jrsoucy\Documents\Personal\Projects\PathDataStructures\PathDataStructuresManagedEnvironment\ConsoleUI\obj\Release\ConsoleUI.AssemblyInfo.cs
+C:\Users\jrsoucy\Documents\Personal\Projects\PathDataStructures\PathDataStructuresManagedEnvironment\ConsoleUI\bin\Release\ConsoleUI.deps.json
+C:\Users\jrsoucy\Documents\Personal\Projects\PathDataStructures\PathDataStructuresManagedEnvironment\ConsoleUI\bin\Release\ConsoleUI.dll
+C:\Users\jrsoucy\Documents\Personal\Projects\PathDataStructures\PathDataStructuresManagedEnvironment\ConsoleUI\bin\Release\ConsoleUI.pdb
+C:\Users\jrsoucy\Documents\Personal\Projects\PathDataStructures\PathDataStructuresManagedEnvironment\ConsoleUI\obj\Release\ConsoleUI.dll
+C:\Users\jrsoucy\Documents\Personal\Projects\PathDataStructures\PathDataStructuresManagedEnvironment\ConsoleUI\obj\Release\ConsoleUI.pdb
