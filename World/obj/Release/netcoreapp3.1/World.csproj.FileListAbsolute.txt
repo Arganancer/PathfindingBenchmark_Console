@@ -10,3 +10,15 @@ C:\Users\jrsoucy\Documents\Personal\Projects\PathDataStructures\PathDataStructur
 C:\Users\jrsoucy\Documents\Personal\Projects\PathDataStructures\PathDataStructuresManagedEnvironment\World\obj\Release\netcoreapp3.1\World.csproj.CopyComplete
 C:\Users\jrsoucy\Documents\Personal\Projects\PathDataStructures\PathDataStructuresManagedEnvironment\World\obj\Release\netcoreapp3.1\World.dll
 C:\Users\jrsoucy\Documents\Personal\Projects\PathDataStructures\PathDataStructuresManagedEnvironment\World\obj\Release\netcoreapp3.1\World.pdb
+C:\Users\jrsoucy\Documents\Personal\Projects\PathDataStructures\PathfindingBenchmark_Console\World\bin\Release\netcoreapp3.1\World.deps.json
+C:\Users\jrsoucy\Documents\Personal\Projects\PathDataStructures\PathfindingBenchmark_Console\World\bin\Release\netcoreapp3.1\World.dll
+C:\Users\jrsoucy\Documents\Personal\Projects\PathDataStructures\PathfindingBenchmark_Console\World\bin\Release\netcoreapp3.1\World.pdb
+C:\Users\jrsoucy\Documents\Personal\Projects\PathDataStructures\PathfindingBenchmark_Console\World\bin\Release\netcoreapp3.1\ConsoleUI.dll
+C:\Users\jrsoucy\Documents\Personal\Projects\PathDataStructures\PathfindingBenchmark_Console\World\bin\Release\netcoreapp3.1\ConsoleUI.pdb
+C:\Users\jrsoucy\Documents\Personal\Projects\PathDataStructures\PathfindingBenchmark_Console\World\obj\Release\netcoreapp3.1\World.csprojAssemblyReference.cache
+C:\Users\jrsoucy\Documents\Personal\Projects\PathDataStructures\PathfindingBenchmark_Console\World\obj\Release\netcoreapp3.1\World.csproj.CoreCompileInputs.cache
+C:\Users\jrsoucy\Documents\Personal\Projects\PathDataStructures\PathfindingBenchmark_Console\World\obj\Release\netcoreapp3.1\World.AssemblyInfoInputs.cache
+C:\Users\jrsoucy\Documents\Personal\Projects\PathDataStructures\PathfindingBenchmark_Console\World\obj\Release\netcoreapp3.1\World.AssemblyInfo.cs
+C:\Users\jrsoucy\Documents\Personal\Projects\PathDataStructures\PathfindingBenchmark_Console\World\obj\Release\netcoreapp3.1\World.csproj.CopyComplete
+C:\Users\jrsoucy\Documents\Personal\Projects\PathDataStructures\PathfindingBenchmark_Console\World\obj\Release\netcoreapp3.1\World.dll
+C:\Users\jrsoucy\Documents\Personal\Projects\PathDataStructures\PathfindingBenchmark_Console\World\obj\Release\netcoreapp3.1\World.pdb

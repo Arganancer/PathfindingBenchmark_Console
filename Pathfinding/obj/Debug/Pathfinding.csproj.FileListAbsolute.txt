@@ -14,3 +14,19 @@ C:\Users\jrsoucy\Documents\Personal\Projects\PathDataStructures\PathDataStructur
 C:\Users\jrsoucy\Documents\Personal\Projects\PathDataStructures\PathDataStructuresManagedEnvironment\Pathfinding\obj\Debug\Pathfinding.pdb
 C:\Users\jrsoucy\Documents\Personal\Projects\PathDataStructures\PathDataStructuresManagedEnvironment\Pathfinding\bin\Debug\Priority Queue.dll
 C:\Users\jrsoucy\Documents\Personal\Projects\PathDataStructures\PathDataStructuresManagedEnvironment\Pathfinding\bin\Debug\Priority Queue.pdb
+C:\Users\jrsoucy\Documents\Personal\Projects\PathDataStructures\PathfindingBenchmark_Console\Pathfinding\bin\Debug\Pathfinding.deps.json
+C:\Users\jrsoucy\Documents\Personal\Projects\PathDataStructures\PathfindingBenchmark_Console\Pathfinding\bin\Debug\Pathfinding.dll
+C:\Users\jrsoucy\Documents\Personal\Projects\PathDataStructures\PathfindingBenchmark_Console\Pathfinding\bin\Debug\Pathfinding.pdb
+C:\Users\jrsoucy\Documents\Personal\Projects\PathDataStructures\PathfindingBenchmark_Console\Pathfinding\bin\Debug\ConsoleUI.dll
+C:\Users\jrsoucy\Documents\Personal\Projects\PathDataStructures\PathfindingBenchmark_Console\Pathfinding\bin\Debug\Priority Queue.dll
+C:\Users\jrsoucy\Documents\Personal\Projects\PathDataStructures\PathfindingBenchmark_Console\Pathfinding\bin\Debug\World.dll
+C:\Users\jrsoucy\Documents\Personal\Projects\PathDataStructures\PathfindingBenchmark_Console\Pathfinding\bin\Debug\Priority Queue.pdb
+C:\Users\jrsoucy\Documents\Personal\Projects\PathDataStructures\PathfindingBenchmark_Console\Pathfinding\bin\Debug\World.pdb
+C:\Users\jrsoucy\Documents\Personal\Projects\PathDataStructures\PathfindingBenchmark_Console\Pathfinding\bin\Debug\ConsoleUI.pdb
+C:\Users\jrsoucy\Documents\Personal\Projects\PathDataStructures\PathfindingBenchmark_Console\Pathfinding\obj\Debug\Pathfinding.csprojAssemblyReference.cache
+C:\Users\jrsoucy\Documents\Personal\Projects\PathDataStructures\PathfindingBenchmark_Console\Pathfinding\obj\Debug\Pathfinding.csproj.CoreCompileInputs.cache
+C:\Users\jrsoucy\Documents\Personal\Projects\PathDataStructures\PathfindingBenchmark_Console\Pathfinding\obj\Debug\Pathfinding.AssemblyInfoInputs.cache
+C:\Users\jrsoucy\Documents\Personal\Projects\PathDataStructures\PathfindingBenchmark_Console\Pathfinding\obj\Debug\Pathfinding.AssemblyInfo.cs
+C:\Users\jrsoucy\Documents\Personal\Projects\PathDataStructures\PathfindingBenchmark_Console\Pathfinding\obj\Debug\Pathfinding.csproj.CopyComplete
+C:\Users\jrsoucy\Documents\Personal\Projects\PathDataStructures\PathfindingBenchmark_Console\Pathfinding\obj\Debug\Pathfinding.dll
+C:\Users\jrsoucy\Documents\Personal\Projects\PathDataStructures\PathfindingBenchmark_Console\Pathfinding\obj\Debug\Pathfinding.pdb

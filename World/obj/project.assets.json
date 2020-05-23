@@ -2441,11 +2441,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jrsoucy\\Documents\\Personal\\Projects\\PathDataStructures\\PathDataStructuresManagedEnvironment\\World\\World.csproj",
+      "projectUniqueName": "C:\\Users\\jrsoucy\\Documents\\Personal\\Projects\\PathDataStructures\\PathfindingBenchmark_Console\\World\\World.csproj",
       "projectName": "World",
-      "projectPath": "C:\\Users\\jrsoucy\\Documents\\Personal\\Projects\\PathDataStructures\\PathDataStructuresManagedEnvironment\\World\\World.csproj",
+      "projectPath": "C:\\Users\\jrsoucy\\Documents\\Personal\\Projects\\PathDataStructures\\PathfindingBenchmark_Console\\World\\World.csproj",
       "packagesPath": "C:\\Users\\jrsoucy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jrsoucy\\Documents\\Personal\\Projects\\PathDataStructures\\PathDataStructuresManagedEnvironment\\World\\obj\\",
+      "outputPath": "C:\\Users\\jrsoucy\\Documents\\Personal\\Projects\\PathDataStructures\\PathfindingBenchmark_Console\\World\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -2466,8 +2466,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\jrsoucy\\Documents\\Personal\\Projects\\PathDataStructures\\PathDataStructuresManagedEnvironment\\ConsoleUI\\ConsoleUI.csproj": {
-              "projectPath": "C:\\Users\\jrsoucy\\Documents\\Personal\\Projects\\PathDataStructures\\PathDataStructuresManagedEnvironment\\ConsoleUI\\ConsoleUI.csproj"
+            "C:\\Users\\jrsoucy\\Documents\\Personal\\Projects\\PathDataStructures\\PathfindingBenchmark_Console\\ConsoleUI\\ConsoleUI.csproj": {
+              "projectPath": "C:\\Users\\jrsoucy\\Documents\\Personal\\Projects\\PathDataStructures\\PathfindingBenchmark_Console\\ConsoleUI\\ConsoleUI.csproj"
             }
           }
         }

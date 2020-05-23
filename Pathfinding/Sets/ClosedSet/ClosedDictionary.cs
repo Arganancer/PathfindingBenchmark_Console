@@ -13,7 +13,7 @@ namespace Pathfinding.Sets.ClosedSet
 
 		public override void Add( PathNode _pathNode )
 		{
-			m_ClosedSet.Add( new Vector3i( _pathNode.Position ), _pathNode );
+			m_ClosedSet.TryAdd( new Vector3i( _pathNode.Position ), _pathNode );
 		}
 
 		public override Boolean Contains( PathNode _pathNode )

@@ -53,7 +53,13 @@ namespace World.Geometry
 
 		public override Int32 GetHashCode()
 		{
-			return X.GetHashCode() ^ Y.GetHashCode() << 2 ^ Z.GetHashCode() >> 2;
+			unchecked
+			{
+				Int32 hash = X.GetHashCode() * 486187739;
+				hash = HashCode.Combine( hash * 486187739, Y.GetHashCode() );
+				hash = HashCode.Combine( hash * 486187739, Z.GetHashCode() );
+				return hash;
+			}
 		}
 
 		public static Boolean operator ==( Vector3i _a, Vector3i _b )
@@ -111,7 +117,7 @@ namespace World.Geometry
 			Single distX = Math.Abs( X - _other.X );
 			Single distZ = Math.Abs( Z - _other.Z );
 
-			return distX * distX + distZ * distZ;
+			return ( distX * distX ) + ( distZ * distZ );
 		}
 
 		private Boolean Equals( Vector3i _other )

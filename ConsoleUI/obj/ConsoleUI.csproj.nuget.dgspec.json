@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jrsoucy\\Documents\\Personal\\Projects\\PathDataStructures\\PathDataStructuresManagedEnvironment\\ConsoleUI\\ConsoleUI.csproj": {}
+    "C:\\Users\\jrsoucy\\Documents\\Personal\\Projects\\PathDataStructures\\PathfindingBenchmark_Console\\ConsoleUI\\ConsoleUI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jrsoucy\\Documents\\Personal\\Projects\\PathDataStructures\\PathDataStructuresManagedEnvironment\\ConsoleUI\\ConsoleUI.csproj": {
+    "C:\\Users\\jrsoucy\\Documents\\Personal\\Projects\\PathDataStructures\\PathfindingBenchmark_Console\\ConsoleUI\\ConsoleUI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jrsoucy\\Documents\\Personal\\Projects\\PathDataStructures\\PathDataStructuresManagedEnvironment\\ConsoleUI\\ConsoleUI.csproj",
+        "projectUniqueName": "C:\\Users\\jrsoucy\\Documents\\Personal\\Projects\\PathDataStructures\\PathfindingBenchmark_Console\\ConsoleUI\\ConsoleUI.csproj",
         "projectName": "ConsoleUI",
-        "projectPath": "C:\\Users\\jrsoucy\\Documents\\Personal\\Projects\\PathDataStructures\\PathDataStructuresManagedEnvironment\\ConsoleUI\\ConsoleUI.csproj",
+        "projectPath": "C:\\Users\\jrsoucy\\Documents\\Personal\\Projects\\PathDataStructures\\PathfindingBenchmark_Console\\ConsoleUI\\ConsoleUI.csproj",
         "packagesPath": "C:\\Users\\jrsoucy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jrsoucy\\Documents\\Personal\\Projects\\PathDataStructures\\PathDataStructuresManagedEnvironment\\ConsoleUI\\obj\\",
+        "outputPath": "C:\\Users\\jrsoucy\\Documents\\Personal\\Projects\\PathDataStructures\\PathfindingBenchmark_Console\\ConsoleUI\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [

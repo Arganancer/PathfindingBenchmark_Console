@@ -7,19 +7,23 @@ using World.Geometry;
 
 namespace Pathfinding.Sets.OpenSet
 {
-	public class OpenAVLTreeDictionary : OpenSet
+	public class OpenAVLTreeV2 : OpenSet
 	{
 		private readonly Dictionary<Vector3i, PathNode> m_PosDictionary = new Dictionary<Vector3i, PathNode>();
-		private readonly AvlTree<Single, PathNode> m_FTree = new AvlTree<Single, PathNode>();
+		private readonly AVLTreeV2<Single, PathNode> m_FTree = new AVLTreeV2<Single, PathNode>();
 
 		public override Boolean Any() => m_FTree.Any();
 
 		// For testing purposes.
-		public OpenAVLTreeDictionary() => Structure = "AVLTree/Dictionary";
+		public OpenAVLTreeV2() => Structure = "AVLTreeV2/Dictionary";
 
 		public override void Add( PathNode _pathNode )
 		{
-			m_FTree.Insert( _pathNode.F, _pathNode );
+			m_FTree.Insert( _pathNode.F, _pathNode, ( _f, _node ) =>
+			{
+				_node.F = _f + 1;
+				return _f + 1;
+			} );
 			m_PosDictionary.Add( _pathNode.Position, _pathNode );
 		}
 
@@ -27,7 +31,7 @@ namespace Pathfinding.Sets.OpenSet
 		{
 			if ( m_PosDictionary.TryGetValue( _pathNode.Position, out PathNode returnValue ) )
 			{
-				m_FTree.Delete( returnValue.F, returnValue );
+				m_FTree.Delete( returnValue.F );
 			}
 
 			return returnValue;
@@ -45,10 +49,14 @@ namespace Pathfinding.Sets.OpenSet
 				return true;
 			}
 
-			m_FTree.Delete( pathNode.F, pathNode );
+			m_FTree.Delete( pathNode.F );
 			pathNode.G = _gValue;
 			pathNode.F = _gValue + pathNode.H;
-			m_FTree.Insert( pathNode.F, pathNode );
+			m_FTree.Insert( pathNode.F, pathNode, ( _f, _node ) =>
+			{
+				_node.F = _f + 1;
+				return _f + 1;
+			} );
 
 			return true;
 		}

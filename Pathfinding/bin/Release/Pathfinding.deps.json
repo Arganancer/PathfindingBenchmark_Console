@@ -8,7 +8,6 @@
     ".NETCoreApp,Version=v3.1": {
       "Pathfinding/1.0.0": {
         "dependencies": {
-          "OptimizedPriorityQueue": "4.2.0",
           "World": "1.0.0"
         },
         "runtime": {
@@ -60,14 +59,6 @@
       },
       "Microsoft.NETCore.Platforms/1.0.1": {},
       "Microsoft.NETCore.Targets/1.0.1": {},
-      "OptimizedPriorityQueue/4.2.0": {
-        "runtime": {
-          "lib/netstandard1.0/Priority Queue.dll": {
-            "assemblyVersion": "4.2.0.0",
-            "fileVersion": "4.2.0.0"
-          }
-        }
-      },
       "System.Collections/4.0.11": {
         "dependencies": {
           "Microsoft.NETCore.Platforms": "1.0.1",
@@ -334,6 +325,11 @@
           "ConsoleUI.dll": {}
         }
       },
+      "Priority Queue/1.0.0": {
+        "runtime": {
+          "Priority Queue.dll": {}
+        }
+      },
       "World/1.0.0": {
         "dependencies": {
           "ConsoleUI": "1.0.0"
@@ -377,13 +373,6 @@
       "sha512": "sha512-rkn+fKobF/cbWfnnfBOQHKVKIOpxMZBvlSHkqDWgBpwGDcLRduvs3D9OLGeV6GWGvVwNlVi2CBbTjuPmtHvyNw==",
       "path": "microsoft.netcore.targets/1.0.1",
       "hashPath": "microsoft.netcore.targets.1.0.1.nupkg.sha512"
-    },
-    "OptimizedPriorityQueue/4.2.0": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-/Sr/OfCFnff7zFe6HoDyWRU8pEvJbOCE9ZjFCSH0EcfETjgvZJ2kUoqlTgVR7cgTPexOGhNATdBKQigqbYn43w==",
-      "path": "optimizedpriorityqueue/4.2.0",
-      "hashPath": "optimizedpriorityqueue.4.2.0.nupkg.sha512"
     },
     "System.Collections/4.0.11": {
       "type": "package",
@@ -589,6 +578,11 @@
       "hashPath": "system.threading.tasks.4.0.11.nupkg.sha512"
     },
     "ConsoleUI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Priority Queue/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

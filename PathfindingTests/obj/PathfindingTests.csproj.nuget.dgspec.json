@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jrsoucy\\Documents\\Personal\\Projects\\PathDataStructures\\PathDataStructuresManagedEnvironment\\PathfindingTests\\PathfindingTests.csproj": {}
+    "C:\\Users\\jrsoucy\\Documents\\Personal\\Projects\\PathDataStructures\\PathfindingBenchmark_Console\\PathfindingTests\\PathfindingTests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jrsoucy\\Documents\\Personal\\Projects\\PathDataStructures\\PathDataStructuresManagedEnvironment\\ConsoleUI\\ConsoleUI.csproj": {
+    "C:\\Users\\jrsoucy\\Documents\\Personal\\Projects\\PathDataStructures\\PathfindingBenchmark_Console\\ConsoleUI\\ConsoleUI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jrsoucy\\Documents\\Personal\\Projects\\PathDataStructures\\PathDataStructuresManagedEnvironment\\ConsoleUI\\ConsoleUI.csproj",
+        "projectUniqueName": "C:\\Users\\jrsoucy\\Documents\\Personal\\Projects\\PathDataStructures\\PathfindingBenchmark_Console\\ConsoleUI\\ConsoleUI.csproj",
         "projectName": "ConsoleUI",
-        "projectPath": "C:\\Users\\jrsoucy\\Documents\\Personal\\Projects\\PathDataStructures\\PathDataStructuresManagedEnvironment\\ConsoleUI\\ConsoleUI.csproj",
+        "projectPath": "C:\\Users\\jrsoucy\\Documents\\Personal\\Projects\\PathDataStructures\\PathfindingBenchmark_Console\\ConsoleUI\\ConsoleUI.csproj",
         "packagesPath": "C:\\Users\\jrsoucy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jrsoucy\\Documents\\Personal\\Projects\\PathDataStructures\\PathDataStructuresManagedEnvironment\\ConsoleUI\\obj\\",
+        "outputPath": "C:\\Users\\jrsoucy\\Documents\\Personal\\Projects\\PathDataStructures\\PathfindingBenchmark_Console\\ConsoleUI\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [
@@ -69,14 +69,14 @@
         }
       }
     },
-    "C:\\Users\\jrsoucy\\Documents\\Personal\\Projects\\PathDataStructures\\PathDataStructuresManagedEnvironment\\PathfindingTests\\PathfindingTests.csproj": {
+    "C:\\Users\\jrsoucy\\Documents\\Personal\\Projects\\PathDataStructures\\PathfindingBenchmark_Console\\PathfindingTests\\PathfindingTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jrsoucy\\Documents\\Personal\\Projects\\PathDataStructures\\PathDataStructuresManagedEnvironment\\PathfindingTests\\PathfindingTests.csproj",
+        "projectUniqueName": "C:\\Users\\jrsoucy\\Documents\\Personal\\Projects\\PathDataStructures\\PathfindingBenchmark_Console\\PathfindingTests\\PathfindingTests.csproj",
         "projectName": "PathfindingTests",
-        "projectPath": "C:\\Users\\jrsoucy\\Documents\\Personal\\Projects\\PathDataStructures\\PathDataStructuresManagedEnvironment\\PathfindingTests\\PathfindingTests.csproj",
+        "projectPath": "C:\\Users\\jrsoucy\\Documents\\Personal\\Projects\\PathDataStructures\\PathfindingBenchmark_Console\\PathfindingTests\\PathfindingTests.csproj",
         "packagesPath": "C:\\Users\\jrsoucy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jrsoucy\\Documents\\Personal\\Projects\\PathDataStructures\\PathDataStructuresManagedEnvironment\\PathfindingTests\\obj\\",
+        "outputPath": "C:\\Users\\jrsoucy\\Documents\\Personal\\Projects\\PathDataStructures\\PathfindingBenchmark_Console\\PathfindingTests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -97,8 +97,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\jrsoucy\\Documents\\Personal\\Projects\\PathDataStructures\\PathDataStructuresManagedEnvironment\\Pathfinding\\Pathfinding.csproj": {
-                "projectPath": "C:\\Users\\jrsoucy\\Documents\\Personal\\Projects\\PathDataStructures\\PathDataStructuresManagedEnvironment\\Pathfinding\\Pathfinding.csproj"
+              "C:\\Users\\jrsoucy\\Documents\\Personal\\Projects\\PathDataStructures\\PathfindingBenchmark_Console\\Pathfinding\\Pathfinding.csproj": {
+                "projectPath": "C:\\Users\\jrsoucy\\Documents\\Personal\\Projects\\PathDataStructures\\PathfindingBenchmark_Console\\Pathfinding\\Pathfinding.csproj"
               }
             }
           }
@@ -148,14 +148,14 @@
         }
       }
     },
-    "C:\\Users\\jrsoucy\\Documents\\Personal\\Projects\\PathDataStructures\\PathDataStructuresManagedEnvironment\\Pathfinding\\Pathfinding.csproj": {
+    "C:\\Users\\jrsoucy\\Documents\\Personal\\Projects\\PathDataStructures\\PathfindingBenchmark_Console\\Pathfinding\\Pathfinding.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jrsoucy\\Documents\\Personal\\Projects\\PathDataStructures\\PathDataStructuresManagedEnvironment\\Pathfinding\\Pathfinding.csproj",
+        "projectUniqueName": "C:\\Users\\jrsoucy\\Documents\\Personal\\Projects\\PathDataStructures\\PathfindingBenchmark_Console\\Pathfinding\\Pathfinding.csproj",
         "projectName": "Pathfinding",
-        "projectPath": "C:\\Users\\jrsoucy\\Documents\\Personal\\Projects\\PathDataStructures\\PathDataStructuresManagedEnvironment\\Pathfinding\\Pathfinding.csproj",
+        "projectPath": "C:\\Users\\jrsoucy\\Documents\\Personal\\Projects\\PathDataStructures\\PathfindingBenchmark_Console\\Pathfinding\\Pathfinding.csproj",
         "packagesPath": "C:\\Users\\jrsoucy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jrsoucy\\Documents\\Personal\\Projects\\PathDataStructures\\PathDataStructuresManagedEnvironment\\Pathfinding\\obj\\",
+        "outputPath": "C:\\Users\\jrsoucy\\Documents\\Personal\\Projects\\PathDataStructures\\PathfindingBenchmark_Console\\Pathfinding\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -176,11 +176,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\jrsoucy\\Documents\\Personal\\Projects\\PathDataStructures\\PathDataStructuresManagedEnvironment\\PriorityQueue\\Priority Queue\\Priority Queue.csproj": {
-                "projectPath": "C:\\Users\\jrsoucy\\Documents\\Personal\\Projects\\PathDataStructures\\PathDataStructuresManagedEnvironment\\PriorityQueue\\Priority Queue\\Priority Queue.csproj"
+              "C:\\Users\\jrsoucy\\Documents\\Personal\\Projects\\PathDataStructures\\PathfindingBenchmark_Console\\PriorityQueue\\Priority Queue\\Priority Queue.csproj": {
+                "projectPath": "C:\\Users\\jrsoucy\\Documents\\Personal\\Projects\\PathDataStructures\\PathfindingBenchmark_Console\\PriorityQueue\\Priority Queue\\Priority Queue.csproj"
               },
-              "C:\\Users\\jrsoucy\\Documents\\Personal\\Projects\\PathDataStructures\\PathDataStructuresManagedEnvironment\\World\\World.csproj": {
-                "projectPath": "C:\\Users\\jrsoucy\\Documents\\Personal\\Projects\\PathDataStructures\\PathDataStructuresManagedEnvironment\\World\\World.csproj"
+              "C:\\Users\\jrsoucy\\Documents\\Personal\\Projects\\PathDataStructures\\PathfindingBenchmark_Console\\World\\World.csproj": {
+                "projectPath": "C:\\Users\\jrsoucy\\Documents\\Personal\\Projects\\PathDataStructures\\PathfindingBenchmark_Console\\World\\World.csproj"
               }
             }
           }
@@ -213,25 +213,25 @@
         }
       }
     },
-    "C:\\Users\\jrsoucy\\Documents\\Personal\\Projects\\PathDataStructures\\PathDataStructuresManagedEnvironment\\PriorityQueue\\Priority Queue\\Priority Queue.csproj": {
+    "C:\\Users\\jrsoucy\\Documents\\Personal\\Projects\\PathDataStructures\\PathfindingBenchmark_Console\\PriorityQueue\\Priority Queue\\Priority Queue.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jrsoucy\\Documents\\Personal\\Projects\\PathDataStructures\\PathDataStructuresManagedEnvironment\\PriorityQueue\\Priority Queue\\Priority Queue.csproj",
+        "projectUniqueName": "C:\\Users\\jrsoucy\\Documents\\Personal\\Projects\\PathDataStructures\\PathfindingBenchmark_Console\\PriorityQueue\\Priority Queue\\Priority Queue.csproj",
         "projectName": "Priority Queue",
-        "projectPath": "C:\\Users\\jrsoucy\\Documents\\Personal\\Projects\\PathDataStructures\\PathDataStructuresManagedEnvironment\\PriorityQueue\\Priority Queue\\Priority Queue.csproj"
+        "projectPath": "C:\\Users\\jrsoucy\\Documents\\Personal\\Projects\\PathDataStructures\\PathfindingBenchmark_Console\\PriorityQueue\\Priority Queue\\Priority Queue.csproj"
       },
       "frameworks": {
         "net45": {}
       }
     },
-    "C:\\Users\\jrsoucy\\Documents\\Personal\\Projects\\PathDataStructures\\PathDataStructuresManagedEnvironment\\World\\World.csproj": {
+    "C:\\Users\\jrsoucy\\Documents\\Personal\\Projects\\PathDataStructures\\PathfindingBenchmark_Console\\World\\World.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jrsoucy\\Documents\\Personal\\Projects\\PathDataStructures\\PathDataStructuresManagedEnvironment\\World\\World.csproj",
+        "projectUniqueName": "C:\\Users\\jrsoucy\\Documents\\Personal\\Projects\\PathDataStructures\\PathfindingBenchmark_Console\\World\\World.csproj",
         "projectName": "World",
-        "projectPath": "C:\\Users\\jrsoucy\\Documents\\Personal\\Projects\\PathDataStructures\\PathDataStructuresManagedEnvironment\\World\\World.csproj",
+        "projectPath": "C:\\Users\\jrsoucy\\Documents\\Personal\\Projects\\PathDataStructures\\PathfindingBenchmark_Console\\World\\World.csproj",
         "packagesPath": "C:\\Users\\jrsoucy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jrsoucy\\Documents\\Personal\\Projects\\PathDataStructures\\PathDataStructuresManagedEnvironment\\World\\obj\\",
+        "outputPath": "C:\\Users\\jrsoucy\\Documents\\Personal\\Projects\\PathDataStructures\\PathfindingBenchmark_Console\\World\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -252,8 +252,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\jrsoucy\\Documents\\Personal\\Projects\\PathDataStructures\\PathDataStructuresManagedEnvironment\\ConsoleUI\\ConsoleUI.csproj": {
-                "projectPath": "C:\\Users\\jrsoucy\\Documents\\Personal\\Projects\\PathDataStructures\\PathDataStructuresManagedEnvironment\\ConsoleUI\\ConsoleUI.csproj"
+              "C:\\Users\\jrsoucy\\Documents\\Personal\\Projects\\PathDataStructures\\PathfindingBenchmark_Console\\ConsoleUI\\ConsoleUI.csproj": {
+                "projectPath": "C:\\Users\\jrsoucy\\Documents\\Personal\\Projects\\PathDataStructures\\PathfindingBenchmark_Console\\ConsoleUI\\ConsoleUI.csproj"
               }
             }
           }

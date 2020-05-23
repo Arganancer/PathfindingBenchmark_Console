@@ -20,3 +20,26 @@ C:\Users\jrsoucy\Documents\Personal\Projects\PathDataStructures\PathDataStructur
 C:\Users\jrsoucy\Documents\Personal\Projects\PathDataStructures\PathDataStructuresManagedEnvironment\Program\obj\Release\netcoreapp3.1\Program.genruntimeconfig.cache
 C:\Users\jrsoucy\Documents\Personal\Projects\PathDataStructures\PathDataStructuresManagedEnvironment\Program\bin\Release\netcoreapp3.1\Colorful.Console.dll
 C:\Users\jrsoucy\Documents\Personal\Projects\PathDataStructures\PathDataStructuresManagedEnvironment\Program\bin\Release\netcoreapp3.1\Priority Queue.dll
+C:\Users\jrsoucy\Documents\Personal\Projects\PathDataStructures\PathfindingBenchmark_Console\Program\bin\Release\netcoreapp3.1\Program.exe
+C:\Users\jrsoucy\Documents\Personal\Projects\PathDataStructures\PathfindingBenchmark_Console\Program\bin\Release\netcoreapp3.1\Program.deps.json
+C:\Users\jrsoucy\Documents\Personal\Projects\PathDataStructures\PathfindingBenchmark_Console\Program\bin\Release\netcoreapp3.1\Program.runtimeconfig.json
+C:\Users\jrsoucy\Documents\Personal\Projects\PathDataStructures\PathfindingBenchmark_Console\Program\bin\Release\netcoreapp3.1\Program.runtimeconfig.dev.json
+C:\Users\jrsoucy\Documents\Personal\Projects\PathDataStructures\PathfindingBenchmark_Console\Program\bin\Release\netcoreapp3.1\Program.dll
+C:\Users\jrsoucy\Documents\Personal\Projects\PathDataStructures\PathfindingBenchmark_Console\Program\bin\Release\netcoreapp3.1\Program.pdb
+C:\Users\jrsoucy\Documents\Personal\Projects\PathDataStructures\PathfindingBenchmark_Console\Program\bin\Release\netcoreapp3.1\Colorful.Console.dll
+C:\Users\jrsoucy\Documents\Personal\Projects\PathDataStructures\PathfindingBenchmark_Console\Program\bin\Release\netcoreapp3.1\ConsoleUI.dll
+C:\Users\jrsoucy\Documents\Personal\Projects\PathDataStructures\PathfindingBenchmark_Console\Program\bin\Release\netcoreapp3.1\Pathfinding.dll
+C:\Users\jrsoucy\Documents\Personal\Projects\PathDataStructures\PathfindingBenchmark_Console\Program\bin\Release\netcoreapp3.1\Priority Queue.dll
+C:\Users\jrsoucy\Documents\Personal\Projects\PathDataStructures\PathfindingBenchmark_Console\Program\bin\Release\netcoreapp3.1\World.dll
+C:\Users\jrsoucy\Documents\Personal\Projects\PathDataStructures\PathfindingBenchmark_Console\Program\bin\Release\netcoreapp3.1\ConsoleUI.pdb
+C:\Users\jrsoucy\Documents\Personal\Projects\PathDataStructures\PathfindingBenchmark_Console\Program\bin\Release\netcoreapp3.1\Pathfinding.pdb
+C:\Users\jrsoucy\Documents\Personal\Projects\PathDataStructures\PathfindingBenchmark_Console\Program\bin\Release\netcoreapp3.1\Priority Queue.pdb
+C:\Users\jrsoucy\Documents\Personal\Projects\PathDataStructures\PathfindingBenchmark_Console\Program\bin\Release\netcoreapp3.1\World.pdb
+C:\Users\jrsoucy\Documents\Personal\Projects\PathDataStructures\PathfindingBenchmark_Console\Program\obj\Release\netcoreapp3.1\Program.csprojAssemblyReference.cache
+C:\Users\jrsoucy\Documents\Personal\Projects\PathDataStructures\PathfindingBenchmark_Console\Program\obj\Release\netcoreapp3.1\Program.csproj.CoreCompileInputs.cache
+C:\Users\jrsoucy\Documents\Personal\Projects\PathDataStructures\PathfindingBenchmark_Console\Program\obj\Release\netcoreapp3.1\Program.AssemblyInfoInputs.cache
+C:\Users\jrsoucy\Documents\Personal\Projects\PathDataStructures\PathfindingBenchmark_Console\Program\obj\Release\netcoreapp3.1\Program.AssemblyInfo.cs
+C:\Users\jrsoucy\Documents\Personal\Projects\PathDataStructures\PathfindingBenchmark_Console\Program\obj\Release\netcoreapp3.1\Program.csproj.CopyComplete
+C:\Users\jrsoucy\Documents\Personal\Projects\PathDataStructures\PathfindingBenchmark_Console\Program\obj\Release\netcoreapp3.1\Program.dll
+C:\Users\jrsoucy\Documents\Personal\Projects\PathDataStructures\PathfindingBenchmark_Console\Program\obj\Release\netcoreapp3.1\Program.pdb
+C:\Users\jrsoucy\Documents\Personal\Projects\PathDataStructures\PathfindingBenchmark_Console\Program\obj\Release\netcoreapp3.1\Program.genruntimeconfig.cache

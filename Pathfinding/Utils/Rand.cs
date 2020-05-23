@@ -4,7 +4,7 @@ namespace Pathfinding.Utils
 {
 	public static class Rand
 	{
-		private static readonly Random Random = new Random();
+		private static readonly Random Random = new Random( 123456 );
 
 		public static Int32 Next( Int32 _minValue, Int32 _maxValue )
 		{

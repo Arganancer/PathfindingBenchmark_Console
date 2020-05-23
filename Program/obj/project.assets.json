@@ -2493,11 +2493,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jrsoucy\\Documents\\Personal\\Projects\\PathDataStructures\\PathDataStructuresManagedEnvironment\\Program\\Program.csproj",
+      "projectUniqueName": "C:\\Users\\jrsoucy\\Documents\\Personal\\Projects\\PathDataStructures\\PathfindingBenchmark_Console\\Program\\Program.csproj",
       "projectName": "Program",
-      "projectPath": "C:\\Users\\jrsoucy\\Documents\\Personal\\Projects\\PathDataStructures\\PathDataStructuresManagedEnvironment\\Program\\Program.csproj",
+      "projectPath": "C:\\Users\\jrsoucy\\Documents\\Personal\\Projects\\PathDataStructures\\PathfindingBenchmark_Console\\Program\\Program.csproj",
       "packagesPath": "C:\\Users\\jrsoucy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jrsoucy\\Documents\\Personal\\Projects\\PathDataStructures\\PathDataStructuresManagedEnvironment\\Program\\obj\\",
+      "outputPath": "C:\\Users\\jrsoucy\\Documents\\Personal\\Projects\\PathDataStructures\\PathfindingBenchmark_Console\\Program\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -2518,11 +2518,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\jrsoucy\\Documents\\Personal\\Projects\\PathDataStructures\\PathDataStructuresManagedEnvironment\\ConsoleUI\\ConsoleUI.csproj": {
-              "projectPath": "C:\\Users\\jrsoucy\\Documents\\Personal\\Projects\\PathDataStructures\\PathDataStructuresManagedEnvironment\\ConsoleUI\\ConsoleUI.csproj"
+            "C:\\Users\\jrsoucy\\Documents\\Personal\\Projects\\PathDataStructures\\PathfindingBenchmark_Console\\ConsoleUI\\ConsoleUI.csproj": {
+              "projectPath": "C:\\Users\\jrsoucy\\Documents\\Personal\\Projects\\PathDataStructures\\PathfindingBenchmark_Console\\ConsoleUI\\ConsoleUI.csproj"
             },
-            "C:\\Users\\jrsoucy\\Documents\\Personal\\Projects\\PathDataStructures\\PathDataStructuresManagedEnvironment\\Pathfinding\\Pathfinding.csproj": {
-              "projectPath": "C:\\Users\\jrsoucy\\Documents\\Personal\\Projects\\PathDataStructures\\PathDataStructuresManagedEnvironment\\Pathfinding\\Pathfinding.csproj"
+            "C:\\Users\\jrsoucy\\Documents\\Personal\\Projects\\PathDataStructures\\PathfindingBenchmark_Console\\Pathfinding\\Pathfinding.csproj": {
+              "projectPath": "C:\\Users\\jrsoucy\\Documents\\Personal\\Projects\\PathDataStructures\\PathfindingBenchmark_Console\\Pathfinding\\Pathfinding.csproj"
             }
           }
         }

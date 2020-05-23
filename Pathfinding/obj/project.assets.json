@@ -2474,11 +2474,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jrsoucy\\Documents\\Personal\\Projects\\PathDataStructures\\PathDataStructuresManagedEnvironment\\Pathfinding\\Pathfinding.csproj",
+      "projectUniqueName": "C:\\Users\\jrsoucy\\Documents\\Personal\\Projects\\PathDataStructures\\PathfindingBenchmark_Console\\Pathfinding\\Pathfinding.csproj",
       "projectName": "Pathfinding",
-      "projectPath": "C:\\Users\\jrsoucy\\Documents\\Personal\\Projects\\PathDataStructures\\PathDataStructuresManagedEnvironment\\Pathfinding\\Pathfinding.csproj",
+      "projectPath": "C:\\Users\\jrsoucy\\Documents\\Personal\\Projects\\PathDataStructures\\PathfindingBenchmark_Console\\Pathfinding\\Pathfinding.csproj",
       "packagesPath": "C:\\Users\\jrsoucy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jrsoucy\\Documents\\Personal\\Projects\\PathDataStructures\\PathDataStructuresManagedEnvironment\\Pathfinding\\obj\\",
+      "outputPath": "C:\\Users\\jrsoucy\\Documents\\Personal\\Projects\\PathDataStructures\\PathfindingBenchmark_Console\\Pathfinding\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -2499,11 +2499,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\jrsoucy\\Documents\\Personal\\Projects\\PathDataStructures\\PathDataStructuresManagedEnvironment\\PriorityQueue\\Priority Queue\\Priority Queue.csproj": {
-              "projectPath": "C:\\Users\\jrsoucy\\Documents\\Personal\\Projects\\PathDataStructures\\PathDataStructuresManagedEnvironment\\PriorityQueue\\Priority Queue\\Priority Queue.csproj"
+            "C:\\Users\\jrsoucy\\Documents\\Personal\\Projects\\PathDataStructures\\PathfindingBenchmark_Console\\PriorityQueue\\Priority Queue\\Priority Queue.csproj": {
+              "projectPath": "C:\\Users\\jrsoucy\\Documents\\Personal\\Projects\\PathDataStructures\\PathfindingBenchmark_Console\\PriorityQueue\\Priority Queue\\Priority Queue.csproj"
             },
-            "C:\\Users\\jrsoucy\\Documents\\Personal\\Projects\\PathDataStructures\\PathDataStructuresManagedEnvironment\\World\\World.csproj": {
-              "projectPath": "C:\\Users\\jrsoucy\\Documents\\Personal\\Projects\\PathDataStructures\\PathDataStructuresManagedEnvironment\\World\\World.csproj"
+            "C:\\Users\\jrsoucy\\Documents\\Personal\\Projects\\PathDataStructures\\PathfindingBenchmark_Console\\World\\World.csproj": {
+              "projectPath": "C:\\Users\\jrsoucy\\Documents\\Personal\\Projects\\PathDataStructures\\PathfindingBenchmark_Console\\World\\World.csproj"
             }
           }
         }

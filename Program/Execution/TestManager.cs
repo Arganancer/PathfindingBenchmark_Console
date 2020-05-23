@@ -44,19 +44,27 @@ namespace Program.Execution
 			// Version 1
 			//NavItems = new List<NavItem>
 			//{
-			//	new NavItem( new OpenDictionary(), new ClosedHashSet(), "V1", new PathfinderV1( m_Main.World ) ),
-			//	new NavItem( new OpenPriorityQueueDictionary(), new ClosedHashSet(), "V2", new PathfinderV1( m_Main.World ) ),
-			//	new NavItem( new OpenAVLTree(), new ClosedHashSet(), "V3", new PathfinderV1( m_Main.World ) ),
+			//	new NavItem( new OpenSortedDictionary(), new ClosedHashSet(), "V1", new PathfinderV1( m_Main.World ) ),
+			//	new NavItem( new OpenDictionary(), new ClosedHashSet(), "V2", new PathfinderV1( m_Main.World ) ),
+			//	new NavItem( new OpenAVLTreeDictionary(), new ClosedDictionary(), "V3", new PathfinderV1( m_Main.World ) ),
 			//	new NavItem( new OpenAVLTreeDictionary(), new ClosedHashSet(), "V4", new PathfinderV1( m_Main.World ) ),
 			//};
 
 			// Version 2
+			//NavItems = new List<NavItem>
+			//{
+			//	new NavItem( new OpenList(), new ClosedList(), "V1", new PathfinderV1( m_Main.World ) ),
+			//	new NavItem( new OpenList(), new ClosedHashSet(), "V2", new PathfinderV1( m_Main.World ) ),
+			//	new NavItem( new OpenAVLTree(), new ClosedHashSet(), "V2", new PathfinderV1( m_Main.World ) ),
+			//	new NavItem( new OpenAVLTreeDictionary(), new ClosedHashSet(), "V3", new PathfinderV1( m_Main.World ) ),
+			//};
+
+			// Version 3
 			NavItems = new List<NavItem>
 			{
-				//new NavItem( new OpenList(), new ClosedList(), "V1", new PathfinderV1( m_Main.World ) ),
-				//new NavItem( new OpenList(), new ClosedHashSet(), "V2", new PathfinderV1( m_Main.World ) ),
-				new NavItem( new OpenAVLTree(), new ClosedHashSet(), "V2", new PathfinderV1( m_Main.World ) ),
-				new NavItem( new OpenAVLTreeDictionary(), new ClosedHashSet(), "V3", new PathfinderV1( m_Main.World ) ),
+				new NavItem( new OpenAVLTreeV3(), new ClosedHashSet(), "V1", new PathfinderV1( m_Main.World ) ),
+				new NavItem( new OpenAVLTreeDictionary(), new ClosedHashSet(), "V2", new PathfinderV1( m_Main.World ) ),
+				new NavItem( new OpenPriorityQueueDictionary(), new ClosedHashSet(), "V3", new PathfinderV1( m_Main.World ) )
 			};
 
 			foreach ( NavItem navItem in NavItems )

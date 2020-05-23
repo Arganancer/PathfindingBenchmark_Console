@@ -13,7 +13,7 @@ namespace Pathfinding.Sets.OpenSet
 		private readonly FastPriorityQueue<FastPathNode> m_PriorityQueue = new FastPriorityQueue<FastPathNode>( 100 );
 
 		// For testing purposes.
-		public OpenPriorityQueueDictionary() => Structure = "PriorityQueue/Dictionary";
+		public OpenPriorityQueueDictionary() => Structure = "F PQueue/Pos Dict";
 
 		public override Boolean Any()
 		{

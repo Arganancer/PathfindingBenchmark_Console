@@ -4,7 +4,6 @@ using System.Diagnostics;
 using Pathfinding.Algorithm;
 using Pathfinding.Algorithm.Nodes;
 using Pathfinding.Sets.ClosedSet;
-using Pathfinding.Sets.OpenSet;
 using Program.EventArguments;
 using Program.Log;
 using Program.Utilities;
@@ -14,14 +13,14 @@ namespace Program.Execution
 {
 	public class NavItem
 	{
-		private readonly OpenSet m_OpenSet;
-		private readonly ClosedSet m_ClosedSet;
+		private readonly IOpenSet m_OpenSet;
+		private readonly IClosedSet m_ClosedSet;
 		private readonly Pathfinder m_Pathfinder;
 		public readonly String Name;
 
 		public event EventHandler<NavigationTestEventArgs> NavigationTestFinished;
 
-		public NavItem( OpenSet _openSet, ClosedSet _closedSet, String _name, Pathfinder _pathfinder )
+		public NavItem( IOpenSet _openSet, IClosedSet _closedSet, String _name, Pathfinder _pathfinder )
 		{
 			Name = _name;
 			m_OpenSet = _openSet;
@@ -33,13 +32,11 @@ namespace Program.Execution
 
 		public void RunTest( Vector3i _startPos, Vector3i _endPos )
 		{
-			//Int64 preTestMemory = GC.GetTotalMemory( false );
 			Stopwatch watch = Stopwatch.StartNew();
 			Stack<PathNode> path = m_Pathfinder.FindPath( _startPos, _endPos, m_OpenSet, m_ClosedSet );
 			watch.Stop();
-			//Int64 postTestMemory = GC.GetTotalMemory( false );
 
-			//Int64 bytesUsed = MemoryUsage.SizeInBytes( m_OpenSet, m_ClosedSet );
+			Int64 bytesUsed = MemoryUsage.SizeInBytes( m_OpenSet, m_ClosedSet );
 
 			m_OpenSet.Clear();
 			m_ClosedSet.Clear();
@@ -47,7 +44,7 @@ namespace Program.Execution
 			NavigationTestFinished?.Invoke(
 				this,
 				new NavigationTestEventArgs(
-					new NavTestLogItem( watch.Elapsed.TotalMilliseconds, path.Count, 0 /*bytesUsed*/ ),
+					new NavTestLogItem( watch.Elapsed.TotalMilliseconds, path.Count, bytesUsed ),
 					Name,
 					m_OpenSet.Structure,
 					m_ClosedSet.Structure ) );
